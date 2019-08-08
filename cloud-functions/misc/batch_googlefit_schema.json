@@ -1,0 +1,45 @@
+{
+    "BigQuery Schema":
+    [ 
+        {
+            "name": "record_id",
+            "type": "STRING"
+        },
+       { 
+         "name": "aggregated_date",
+         "type": "DATE"
+       },
+       {
+         "name": "source",
+         "type": "STRING"
+       },
+       {
+         "name": "uid",
+         "type": "STRING"
+       },
+       {
+        "name": "weight",
+        "type": "FLOAT"
+       },       
+       {
+         "name": "hours_slept",
+         "type": "FLOAT"
+       },
+       {
+         "name": "calories_consumed",
+         "type": "INTEGER"
+       },
+       {
+         "name": "calories_burned",
+         "type": "INTEGER"
+       },
+       {
+         "name": "steps_count",
+         "type": "INTEGER"
+       },
+       {
+        "name": "load_time",
+        "type": "TIMESTAMP"
+       }
+     ]
+}

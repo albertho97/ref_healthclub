@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Fitness App</string>
+    <string name="title_home">Home</string>
+    <string name="title_activity_menu">MenuActivity</string>
+    <string name="title_datasources">Data Sources</string>
+    <string name="title_sync">Sync</string>
+    <string name="title_daily">Daily</string>
+    <string name="title_benchmark">Benchmark</string>
+    <string name="title_recommendation">Recommendation</string>
+    <string name="title_exercise">Exercise</string>
+    <string name="title_food">Food</string>
+    <string name="title_activity_main2">Fitness App</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">National Health Club</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_sync">SyncActivity</string>
+    <string name="large_text">
+        "Waiting to be populated.\n\n"
+    </string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

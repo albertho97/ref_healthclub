@@ -1,0 +1,25 @@
+{
+    "BigQuery Schema":
+    [ 
+        {
+            "name": "Age_Group",
+            "type": "STRING"
+        },
+       { 
+         "name": "Min_Age",
+         "type": "INTEGER"
+       },
+       {
+         "name": "Max_Age",
+         "type": "INTEGER"
+       },
+       {
+         "name": "Min_Sleep_Hours_Per_Day",
+         "type": "INTEGER"
+       },
+       {
+        "name": "Max_Sleep_Hours_Per_Day",
+        "type": "INTEGER"
+       }
+     ]
+}

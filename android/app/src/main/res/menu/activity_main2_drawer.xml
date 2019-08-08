@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_datasources"
+            android:icon="@drawable/ic_menu_send"
+            android:title="Data Sources" />
+        <item
+            android:id="@+id/nav_sync"
+            android:icon="@drawable/ic_menu_send"
+            android:title="Sync" />
+        <item
+            android:id="@+id/nav_daily"
+            android:icon="@drawable/ic_menu_gallery"
+            android:title="Daily Stats" />
+        <item
+            android:id="@+id/nav_cdc_info"
+            android:icon="@drawable/ic_menu_gallery"
+            android:title="CDC Info" />
+        <item
+            android:id="@+id/nav_benchmark"
+            android:icon="@drawable/ic_menu_gallery"
+            android:title="Benchmark against CDC" />
+        <item
+            android:id="@+id/nav_recommendation"
+            android:icon="@drawable/ic_menu_slideshow"
+            android:title="Recommendation" />
+        <item
+            android:id="@+id/nav_incentive"
+            android:icon="@drawable/ic_menu_slideshow"
+            android:title="Incentive Programs" />
+        <item
+            android:id="@+id/nav_exercise"
+            android:icon="@drawable/ic_menu_share"
+            android:title="Exercise Now" />
+        <item
+            android:id="@+id/nav_food"
+            android:icon="@drawable/ic_menu_share"
+            android:title="Diet Food" />
+    </group>
+</menu>
